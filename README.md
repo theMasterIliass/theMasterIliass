@@ -1,8 +1,7 @@
-### Hi there 👋
+## Hi there , I am Iliass Afilal 👋
 # Welcome to My GitHub Repository!
 
 ## About Me
-- Name: Iliass Afilal
 - Current Occupation: Software Engineering Student 
 - 🌱 I’m currently learning web development
 
@@ -16,8 +15,8 @@
 As a software engineering student, I am eager to learn and grow in the field of technology. While I'm currently exploring different areas within software engineering, I'm excited to develop projects related to my interests and contribute to open-source initiatives in the future.
 
 ## Get in Touch
-I'm open to connecting with fellow developers, sharing ideas, and learning from the community. Feel free to reach out to me via :
-email: iliassafilal5@gmail.com
+I'm open to connecting with fellow developers, sharing ideas, and learning from the community. Feel free to reach out to me via : <br>
+email: iliassafilal5@gmail.com <br>
 LinkedIn: https://github.com/theMasterIliass
 
 <!--
